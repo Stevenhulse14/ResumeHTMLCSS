@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  margin: 0;
+  letter-spacing:10px;
+  text-transform:uppercase
+}
+h3{
+  text-align:center
+}
+body{
+  margin: auto;
+  padding-bottom: 40px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+
+}
+section{
+  margin:20px
+}
+.occ{
+  color: darkgray
+}
+#primary{
+  margin:20px
+}
